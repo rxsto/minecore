@@ -1,0 +1,8 @@
+name: MineCore
+version: 1.0
+main: me.rxsto.minecore.MineCore
+description: Helpful functionalities and basic settings.
+api-version: 1.13
+author: Rxsto
+website: https://rxsto.me
+prefix: MineCore

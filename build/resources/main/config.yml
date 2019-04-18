@@ -1,0 +1,14 @@
+# Join Message Format | %s required for player name
+joinMessage: §e%s §fjoined the server.
+
+# Leave Message Format | %s required for player name
+leaveMessage: §e%s §fleft the server.
+
+# Enable/disable Join Message
+sendJoinMessage: true
+
+# Enable/disable Leave Message
+sendLeaveMessage: true
+
+# Chat Message Format | %s (1) required for player name, %s (2) required for message content
+chatMessage: §e%s §7» §f%s
